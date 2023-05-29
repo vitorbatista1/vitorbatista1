@@ -23,5 +23,6 @@ Estou ansioso para me conectar com outros programadores e aprender com a comunid
 Você pode entrar em contato comigo através do seguinte meio:
 
 - E-mail: vitorbatista177@outlook.com
+- Linkedin: https://www.linkedin.com/in/vitor-batista-80a4a11b0/
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Estou aberto a feedbacks, sugestões e colaborações. Vamos aprender e crescer juntos!
