@@ -5,7 +5,7 @@ Olá! Meu nome é Vitor Batista e sou um entusiasta da programação. Estou no i
 
 ## Habilidades
 
-- Linguagens de programação e tecnologias estão: HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django) e SQL.
+- Linguagens de programação e tecnologias estão: JavaScript (ES6+), React, Node.js, Python (Django), SQL, Ruby.
 
 ## Objetivos
 
