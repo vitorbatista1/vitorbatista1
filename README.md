@@ -1,5 +1,4 @@
 # Vitor Batista
-
 ## Sobre mim
 
 Olá! Meu nome é Vitor Batista e sou um entusiasta da programação. Estou no início da minha jornada de aprendizado e estou animado para explorar o mundo da programação e desenvolvimento de software.
@@ -15,6 +14,7 @@ Meus principais objetivos como programador são:
 - Aprender continuamente novas linguagens, tecnologias e conceitos de programação.
 - Contribuir para projetos de código aberto e colaborar com outros desenvolvedores.
 - Desenvolver habilidades em desenvolvimento web e criar projetos interativos e envolventes.
+- Desenvolvimento BackEnd
 
 Estou ansioso para me conectar com outros programadores e aprender com a comunidade de desenvolvimento de software.
 
