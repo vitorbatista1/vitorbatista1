@@ -1,28 +1,17 @@
-🌟 Vitor Batista - A Jornada do Programador
-Olá, Mundo! 👋
-Sou Vitor Batista, um entusiasta da programação em busca de novas aventuras no vasto universo do desenvolvimento de software. Minha jornada está apenas começando, e estou empolgado para explorar e aprender com cada linha de código.
+<h1 align="center">Hi 👋, I'm Vitor Batista</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
-🛠️ Minhas Ferramentas de Criação
-Aqui estão algumas das linguagens e tecnologias que estou dominando:
+- 🔭 I’m currently working on [api-rest-full](https://github.com/vitorbatista1/api_rest_full)
 
-JavaScript (ES6+): O poder do front-end nas minhas mãos!
-React: Construindo interfaces interativas e envolventes.
-Node.js: O backend que faz tudo funcionar nos bastidores.
-Python (Django): Para soluções rápidas e eficazes.
-SQL: Dominando a arte de manipular dados.
-Ruby: Um toque de elegância no meu código.
-🎯 Objetivos de Vida
-Como programador, tenho alguns objetivos em mente:
+- 🌱 I’m currently learning **Java, Spring Boot, C#**
 
-Aprendizado Contínuo: Estou sempre em busca de novas linguagens, tecnologias e conceitos.
-Contribuições para a Comunidade: Quero participar de projetos de código aberto e colaborar com desenvolvedores incríveis.
-Desenvolvimento Web: Criar projetos interativos que façam a diferença.
-💡 Desenvolvimento BackEnd
-O backend é onde a mágica acontece! Estou focado em aprimorar minhas habilidades para criar aplicações robustas e escaláveis.
+- 📫 How to reach me **vitorbatista177@outlook.com**
 
-🌐 Vamos nos Conectar!
-Estou sempre aberto a novas ideias e colaborações. Se você também é um apaixonado por programação, adoraria trocar experiências!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-batista-80a4a11b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-batista-80a4a11b0/" height="30" width="40" /></a>
+<a href="https://instagram.com/vitorbatista.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitorbatista.1" height="30" width="40" /></a>
+</p>
 
-📧 E-mail: vitorbatista177@outlook.com
-🔗 LinkedIn: Vitor Batista
-Sinta-se à vontade para explorar meus repositórios e projetos. Estou ansioso para receber feedbacks, sugestões e, quem sabe, iniciar algumas colaborações! Vamos aprender e crescer juntos! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
