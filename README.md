@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Batista</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [api_crud](https://github.com/vitorbatista1/api_crud)
+- 🔭 I’m currently working on [api_crud](https://github.com/vitorbatista1/store_vehicles)
 
 - 🌱 I’m currently learning **Java, Spring Boot, C#**
 
